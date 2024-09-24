@@ -11,7 +11,7 @@
   "author": "bing.hu@ubtrobot.com",
   "license": "MIT",
   "devDependencies": {
-    "rollup": "2.17.1",
+    "rollup": "3.29.5",
     "rollup-plugin-terser": "6.1.0",
     "typescript": "3.9.5"
   }
